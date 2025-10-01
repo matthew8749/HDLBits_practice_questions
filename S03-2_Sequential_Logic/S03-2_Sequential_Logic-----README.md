@@ -263,7 +263,277 @@ submodule的名稱就叫top_module(題目要求)
 ### <font color=#00C957>S03-2-2 Counters</font>
 ### <font color=#00C957>S03-2-3 Shift Registers</font>
 ### <font color=#00C957>S03-2-4 More Circuits</font>
+
+---  
+
 ### <font color=#00C957>S03-2-5 Finite State Machines</font>
+
+#### S03-2-5.1 Simple FSM 1 (asynchronous reset)  
+想法：  
+把`S03-2-5.1`的程式碼改成sync 
+
+```verilog
+
+```
+
+#### S03-2-5.2 Simple FSM 1 (synchronous reset)  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.3 Simple FSM 2 (asynchronous reset)  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.4 Simple FSM 2 (synchronous reset)  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.5 Simple state transitions 3  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.6 Simple one-hot state transitions 3  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.7 Simple FSM 3 (asynchronous reset)  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.8 Simple FSM 3 (synchronous reset)  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.9 Design a Moore FSM  
+想法：  
+首先要理解題目
+s1, s2, s3 是傳感器，當水位到達此高度傳感器便會輸出1
+
+
+
+```verilog
+
+```
+
+#### S03-2-5.10 Lemmings 1  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.11 Lemmings 2  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.12 Lemmings 3  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.13 Lemmings 4  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.14 One-hot FSM  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.15 PS/2 packet parser  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.16 PS/2 packet parser and datapath  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.17 Serial receiver  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.18 Serial receiver and datapath  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.19 Serial receiver with parity checking  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.20 Sequence recognition  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.21 Q8: Design a Mealy FSM  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.22 Q5a: Serial two's complementer (Moore FSM)  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.23 Q5b: Serial two's complementer (Mealy FSM)  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.24 Q3a: FSM  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.25 Q3b: FSM  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.26 Q3c: FSM logic  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.27 Q6b: FSM next-state logic  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.28 Q6c: FSM one-hot next-state logic  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.29 Q6: FSM  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.30 Q2a: FSM  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.31 Q2b: One-hot FSM equations  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.32 Q2a: FSM  
+想法：  
+
+
+```verilog
+
+```
+
+#### S03-2-5.33 Q2b: Another FSM  
+想法：  
+
+
+```verilog
+
+```
 
 
 ## <font color=#FF00FF>S03-3 Building Larger Circuits</font>
